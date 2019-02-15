@@ -4,6 +4,8 @@
 
 비록 두 문제 풀었지만 라이트업 써볼래요,,
 
+~~사진은 나중에 첨부~~
+
 ### MIC CHECK!-100
 
 TRUST{Welcome_CTF_Have_FUN!}
